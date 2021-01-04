@@ -1,0 +1,12 @@
+#classes= 2
+#train  = ../train.txt
+#valid  = ../
+#valid = data/coco_val_5k.list
+#names = data/coco.names
+#backup = /home/pjreddie/backup/
+#eval=coco
+classes= 2
+train  = train.txt
+valid  = 2007_test.txt
+names = data/voc.names
+backup = backup
